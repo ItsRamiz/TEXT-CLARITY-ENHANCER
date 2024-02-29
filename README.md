@@ -4,7 +4,7 @@ A set of algorithms from the world of Natural Language Processing:
 Note: The following algorithms were tested on:
 
 
-- 100x Official Hebrew Govrement Transcripts
+- 100x Official Hebrew Goverement Transcripts
 - Each transcript contained 5 - 33 pages, discussing various topics
 - The transcripts were taken from different years, each year the transcript followed a specific syntax, starting from introduction, moving on to the actual context, ending in votes or an ending sentence
 - Parts of the transcript were corrupted on purpose for testing purposes
