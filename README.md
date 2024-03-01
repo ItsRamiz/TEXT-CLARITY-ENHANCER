@@ -12,6 +12,7 @@ Note: The following algorithms were tested on:
   
 **Pre-processing Corpus:** In the pre-processing phase, I've made sure to exclude pure context out of the document, the speaker's name followed by everything he said.
  This included removing the introduction, headlines, dates, images, irrelevant comments made during the meeting, corrupt text, strange symbols and much more.
+ ***Note: I've included random results from different documents, click View RAW****
 
 
 **Auto-complete Corupus:** With the help of principles learned in Machine Learning, I was able to predict the missing words found in sentences & auto-complete sentences using Linear Interpolation and Laplace smoothing
