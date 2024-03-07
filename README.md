@@ -1,4 +1,4 @@
-A set of algorithms from the world of Natural Language Processing:
+A set of algorithms from the world of Natural Language Processing @ University of Haifa 2024
 
 
 Note: The following algorithms were tested on:
